@@ -1,0 +1,4 @@
+
+The ::before pseudo-element in CSS is used to insert content before the content of an element. This can be used for adding decorative elements, icons, or any other content that you want to appear before the element's main content.
+
+The content property is used to specify the content to be inserted
